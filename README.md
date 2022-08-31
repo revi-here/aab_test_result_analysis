@@ -22,6 +22,10 @@ Creating two A groups has certain advantages. We can make it a principle that we
 #### Percent of eventss occuring atleast once.  
 ![Event percent.](images/aab_action_percent.png 'Event percent.')   
 
+#### Event funnel.  
+![Event funnel.](images/newplot(6).png 'Event funnel.')   
+
+
 #### Users visiting main screen
 ![Main screen.](images/users_main.png 'Main screen.')  
 
