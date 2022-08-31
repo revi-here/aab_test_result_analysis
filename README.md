@@ -8,7 +8,7 @@ The designers would like to change the fonts for the entire app, for which they 
 The users are split into three groups: two control groups get the old fonts and one test group gets the new ones. Find out which set of fonts produces better results.
 Creating two A groups has certain advantages. We can make it a principle that we will only be confident in the accuracy of our testing when the two control groups are similar. If there are significant differences between the A groups, this can help us uncover factors that may be distorting the results. Comparing control groups also tells us how much time and data we'll need when running further tests.   
 
-![A/A/B test result analysis.](images/food_company_aab.jpg 'A/A/B test result analysis.')   
+# Data Exploration.   
 
 #### Event Dates
 ![Event dates.](images/aab_event_dates.png 'Event dates.')  
@@ -23,7 +23,7 @@ Creating two A groups has certain advantages. We can make it a principle that we
 ![Event percent.](images/aab_action_percent.png 'Event percent.')   
 
 #### Event funnel.  
-![Event funnel.](images/newplot(6).png 'Event funnel.')   
+![Event funnel.](images/newplot (6).png 'Event funnel.')   
 
 
 #### Users visiting main screen
